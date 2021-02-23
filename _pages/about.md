@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am
+I am a last-year B.E student at Sun Yat-sen University, 
 
 Publications
 ------
