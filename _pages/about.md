@@ -24,5 +24,7 @@ Publications
 Internship
 ------
 **Sun Yat-sen University** (2018.09 - present)
-- ddd
-- sss
+- Research Intern, School of Data and Computer Science
+- Research on Semantic Hashing and Dynamic Network Embedding
+
+**Sun Yat-sen University** (2018.09 - present)
