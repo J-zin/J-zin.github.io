@@ -21,5 +21,8 @@ Publications
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
  Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao and Shangsong Liang, <b>IJCAI 2019</b>. <a href="https://www.ijcai.org/Proceedings/2019/0799.pdf">[PDF]</a>
 
-
-
+Internship
+------
+**Sun Yat-sen University** (2018.09 - present)
+- ddd
+- sss
