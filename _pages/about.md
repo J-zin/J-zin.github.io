@@ -15,7 +15,7 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 Publications
 ------
 - Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>
- Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>.
+ Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://jiyang3.web.engr.illinois.edu/files/dyhine.pdf">[PDF]</a>
 - Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
  Zenan Xu, <b>Zijing Ou</b>, Qinliang Su, Jianxing Yu, Xiaojun Quan and ZhenKun Lin, <b>COLING 2020</b>. <a href="https://www.aclweb.org/anthology/2020.coling-main.600.pdf">[PDF]</a>
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
