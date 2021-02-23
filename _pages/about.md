@@ -23,8 +23,9 @@ Publications
 
 Internship
 ------
+**Tencent Jarvis Lab** (2020.05 - present)
+- Research Intern, <a href="https://jarvislab.tencent.com/">Tencent Jarvis Lab</a>, Shenzhen, China
+
 **Sun Yat-sen University** (2018.09 - present)
 - Research Intern, School of Data and Computer Science
 - Research on Semantic Hashing and Dynamic Network Embedding
-
-**Sun Yat-sen University** (2018.09 - present)
