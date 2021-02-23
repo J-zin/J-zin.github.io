@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a last-year B.E student at Sun Yat-sen University, 
+I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796).
 
 Publications
 ------
