@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796).
+I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). I work on machine learning application in natural language processing. Currently, my research interests lie at Bayesian modeling, deep latent variable model and graph neural network.
 
 Publications
 ------
