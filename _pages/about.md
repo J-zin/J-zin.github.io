@@ -15,7 +15,7 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 Publications
 ------
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
- Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao, Shangsong Liang
+ Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao, Shangsong Liang <b>IJCAI 2019</b> 
 
 
 
