@@ -14,8 +14,11 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 
 Publications
 ------
+- Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
+ Zenan Xu, Zijing Ou, Qinliang Su, Jianxing Yu, Xiaojun Quan, ZhenKun Lin <b>COLING 2020</b>
+
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
- Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao, Shangsong Liang <b>IJCAI 2019</b> 
+ Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao, Shangsong Liang <b>IJCAI 2019</b> <a href="https://www.ijcai.org/Proceedings/2019/0799.pdf">[PDF]</a>
 
 
 
