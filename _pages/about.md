@@ -14,6 +14,8 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 
 Publications
 ------
+- Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management <br>
+ Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>.
 - Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>
  Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://jiyang3.web.engr.illinois.edu/files/dyhine.pdf">[PDF]</a>
 - Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
