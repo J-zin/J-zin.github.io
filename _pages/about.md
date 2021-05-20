@@ -21,7 +21,7 @@ Publications
 - Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management <br>
  Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>. <a href="https://arxiv.org/pdf/2104.04748.pdf">[pdf]</a> <a href="https://github.com/sherlock1987/SeqReward">[code]</a>
 - Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>
- Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://jiyang3.web.engr.illinois.edu/files/dyhine.pdf">[pdf]</a>
+ Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://dl.acm.org/doi/pdf/10.1145/3437963.3441745">[pdf]</a>
 - Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
  Zenan Xu, <b>Zijing Ou</b>, Qinliang Su, Jianxing Yu, Xiaojun Quan and ZhenKun Lin, <b>COLING 2020</b>. <a href="https://www.aclweb.org/anthology/2020.coling-main.600.pdf">[pdf]</a>
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
