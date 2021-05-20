@@ -14,8 +14,12 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 
 Publications
 ------
+- Unsupervised Hashing with Contrastive Information Bottleneck <br>
+ Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>ACL 2021</b>. <a href="https://j-zin.github.io/files/acl_2021.pdf">[PDF]</a> <a href="https://github.com/J-zin/SNUH">[CODE]</a>
+- Unsupervised Hashing with Contrastive Information Bottleneck <br>
+ Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>IJCAI 2021</b>. <a href="https://arxiv.org/pdf/2105.06138.pdf">[PDF]</a> <a href="https://github.com/qiuzx2/CIBHash">[CODE]</a>
 - Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management <br>
- Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>.
+ Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>. <a href="https://arxiv.org/pdf/2104.04748.pdf">[PDF]</a> <a href="https://github.com/sherlock1987/SeqReward">[CODE]</a>
 - Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>
  Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://jiyang3.web.engr.illinois.edu/files/dyhine.pdf">[PDF]</a>
 - Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
