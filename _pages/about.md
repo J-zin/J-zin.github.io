@@ -14,7 +14,7 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 
 Publications
 ------
-- Unsupervised Hashing with Contrastive Information Bottleneck <br>
+- Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
  <b>Zijing Ou</b>, Qinliang Su, Jianxin Yu, Bang Liu, Jingwen Wang, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng, <b>ACL 2021</b>. <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[code]</a>
 - Unsupervised Hashing with Contrastive Information Bottleneck <br>
  Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>IJCAI 2021</b>. <a href="https://arxiv.org/pdf/2105.06138.pdf">[pdf]</a> <a href="https://github.com/qiuzx2/CIBHash">[code]</a>
