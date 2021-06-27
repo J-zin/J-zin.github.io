@@ -6,21 +6,10 @@ redirect_from:
   - /notes
 ---
 
-* Conjugate Bayesian analysis of common distributions
-* Unnormalized porbabilitic models
+* <a href="https://j-zin.github.io/files/Conjugate_Bayesian_analysis_of_common_distributions.pdf">Conjugate Bayesian analysis of common distributions</a>
+* <a href="https://j-zin.github.io/files/unnormalized_probability_models.pdf">Unnormalized porbabilitic models</a>
 
 ## Talks
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* <a href="https://j-zin.github.io/files/Adversarial_examples_slides.pdf">Adversarial Examples in Natural Language Processing</a>
 
