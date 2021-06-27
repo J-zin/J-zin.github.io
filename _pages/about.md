@@ -15,9 +15,9 @@ I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su]
 Publications
 ------
 - Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
- <b>Zijing Ou</b>, Qinliang Su, Jianxin Yu, Bang Liu, Jingwen Wang, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng, <b>ACL 2021</b>. <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[code]</a>
+ <b>Zijing Ou</b>, Qinliang Su, Jianxin Yu, Bang Liu, Jingwen Wang, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng, <b>ACL 2021</b>. <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[pytorch]</a> <a href="https://github.com/J-zin/SNUH-mindspore">[mindspore]</a>  <a href="https://j-zin.github.io/files/SNUH_slides.pdf">[slides]</a>
 - Unsupervised Hashing with Contrastive Information Bottleneck <br>
- Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>IJCAI 2021</b>. <a href="https://arxiv.org/pdf/2105.06138.pdf">[pdf]</a> <a href="https://github.com/qiuzx2/CIBHash">[code]</a>
+ Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>IJCAI 2021</b>. <a href="https://arxiv.org/pdf/2105.06138.pdf">[pdf]</a> <a href="https://github.com/qiuzx2/CIBHash">[code]</a> <a href="https://j-zin.github.io/files/HCIB_slides.pdf">[slides]</a>
 - Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management <br>
  Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>. <a href="https://arxiv.org/pdf/2104.04748.pdf">[pdf]</a> <a href="https://github.com/sherlock1987/SeqReward">[code]</a>
 - Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>

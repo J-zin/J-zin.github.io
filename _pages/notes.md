@@ -3,11 +3,13 @@ permalink: /notes/
 title: "Notes"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /notes
 ---
 
-## Notes
+* Conjugate Bayesian analysis of common distributions
+* Unnormalized porbabilitic models
+
+## Talks
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
