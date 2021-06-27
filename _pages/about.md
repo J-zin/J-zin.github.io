@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests lie in the general area of machine learning, particularly in Bayesian statistics, deep latent variable model, graph structure learning and their applications on natural language.
+I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests lie in the general area of machine learning, particularly in Bayesian statistics, deep latent variable models, approximate inference and their applications on natural language.
 
 Publications
 ------
@@ -29,12 +29,12 @@ Publications
 
 Internship
 ------
-**Tencent Jarvis Lab** (2020.05 - present)
+**Tencent Jarvis Lab** (2020.05 - 2021.06)
 - Research Intern, <a href="https://jarvislab.tencent.com/">Tencent Jarvis Lab</a>, Shenzhen, China
 - Research on Semantic Hashing, Structural Paper Recommendation and RL-based Dialog Managemen System
-- Mentor: [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)
+- Mentor: [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/)
 
-**Sun Yat-sen University** (2018.09 - present)
+**Sun Yat-sen University** (2018.09 - 2021.06)
 - Research Intern, School of Data and Computer Science
 - Research on Semantic Hashing and Dynamic Network Embedding
 - Advisor: [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796)
