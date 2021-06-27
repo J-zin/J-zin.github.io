@@ -15,11 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  - title: "Notes"
+    url: /notes/
+
   - title: "CV"
     url: https://j-zin.github.io/files/Zijing_Ou_s_Resume.pdf
     
-  - title: "Guide"
-    url: /markdown/
-
-  - title: "Test"
-    url: /test/
+  # - title: "Guide"
+  #   url: /markdown/
