@@ -31,10 +31,8 @@ Internship
 ------
 **Tencent Jarvis Lab** (2020.05 - 2021.06)
 - Research Intern, <a href="https://jarvislab.tencent.com/">Tencent Jarvis Lab</a>, Shenzhen, China
-- Research on Semantic Hashing, Structural Paper Recommendation and RL-based Dialog Managemen System
 - Mentor: [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/)
 
 **Sun Yat-sen University** (2018.09 - 2021.06)
-- Research Intern, School of Data and Computer Science
-- Research on Semantic Hashing and Dynamic Network Embedding
+- Research Intern, School of Computer Science and Engineering
 - Advisor: [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796)
