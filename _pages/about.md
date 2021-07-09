@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests lie in the general area of machine learning, particularly in Bayesian statistics, deep latent variable models, approximate inference and their applications on natural language.
+I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests lie in the general area of machine learning, particularly in generative models, implicit models, variational inference and their applications on natural language.
 
 Publications
 ------
