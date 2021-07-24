@@ -29,9 +29,6 @@ Publications
 
 Internship
 ------
-**Tencent AI Lab** (2020.07 - present)
-- Research Intern, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
-- Mentor: Tingyang Xu, Yatao Bian
 
 **Tencent Jarvis Lab** (2020.05 - 2021.06)
 - Research Intern, <a href="https://jarvislab.tencent.com/">Tencent Jarvis Lab</a>, Shenzhen, China
