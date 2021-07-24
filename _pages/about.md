@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a last-year B.E student at Sun Yat-sen University, advised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests lie in the general area of machine learning, particularly in generative models, implicit models, variational inference and their applications on natural language.
+I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests include generative models, implicit models, variational inference and their applications on natural language. I am looking for a Ph.D. position for 2022 fall. If you are interested, please feel free to contact me.
 
 Publications
 ------
