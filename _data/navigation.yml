@@ -18,6 +18,9 @@ main:
   - title: "Notes"
     url: /notes/
 
+  - title: "Misc"
+    url: /misc/
+
   - title: "CV"
     url: https://j-zin.github.io/files/Zijing_Ou_s_Resume.pdf
     
