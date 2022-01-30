@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests include generative models, implicit models, variational inference and their applications on natural language.
+I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](http://cse.sysu.edu.cn/content/3796). My research interests include generative models, energy-based models, and approximate inference.
 
 Publications
 ------
@@ -27,13 +27,22 @@ Publications
 - ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
  Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao and Shangsong Liang, <b>IJCAI 2019</b>. <a href="https://www.ijcai.org/Proceedings/2019/0799.pdf">[pdf]</a>
 
-Internship
+Research Exeerience
 ------
+
+**Tencent AI Lab** (2021.07 - present)
+- Research Intern, Machine Learning Group, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
+- Work with: [Yatao Bian](https://yataobian.com/), Tingyang Xu
 
 **Tencent Jarvis Lab** (2020.05 - 2021.06)
 - Research Intern, <a href="https://jarvislab.tencent.com/">Tencent Jarvis Lab</a>, Shenzhen, China
-- Mentor: [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/)
+- Work with: [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/)
 
 **Sun Yat-sen University** (2018.09 - 2021.06)
-- Research Intern, School of Computer Science and Engineering
-- Advisor: [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796)
+- Research Assistant, School of Computer Science and Engineering
+- Work with: [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796)
+
+Services
+------
+
+- Reviewer: ACL-2022, IJCAI-2022, ICML-2022
