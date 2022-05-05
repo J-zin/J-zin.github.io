@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](http://cse.sysu.edu.cn/content/3796). My research interests include generative models, energy-based models, and approximate inference.
+I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en). My research interests include generative models, energy-based models, and approximate inference.
 
 Publications
 ------
@@ -40,7 +40,7 @@ Research Exeerience
 
 **Sun Yat-sen University** (2018.09 - 2021.06)
 - Research Assistant, School of Computer Science and Engineering
-- Work with: [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796)
+- Work with: [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en)
 
 Services
 ------
