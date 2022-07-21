@@ -10,14 +10,14 @@ redirect_from:
 
 About me
 ======
-I am an incoming PhD student at Imperial College London, advised by [Yingzhen Li](http://yingzhenli.net/home/en/). Super excited about that :wink:. These days I am intersted in generative models, approximate inference, and explainable AI.
+I am an incoming PhD student at Imperial College London, advised by [Yingzhen Li](http://yingzhenli.net/home/en/). Super excited about that. These days I am intersted in generative models, approximate inference, and explainable AI.
 
 I was extremely fortunate to have many wonderful mentors in my undergraduate years. I started machine laerning research with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) at Sun Yat-sen University. I worked with [Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/) as part of [Tencent Jarvis Lab](https://jarvislab.tencent.com/). I also had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
 
 Publications
 ------
 - Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
- <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="https://scholar.google.com/citations?user=0SIMxCgAAAAJ&hl=zh-CN">Jianxin Yu</a>, <a href="http://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>, Jingwen Wang, <a href="https://zacharywaseda.github.io/">Ruihui Zhao</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> and <a href="https://sites.google.com/site/yefengzheng/">Yefeng Zheng</a> <br>
+ <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="https://scholar.google.com/citations?user=0SIMxCgAAAAJ&hl=zh-CN">Jianxin Yu</a>, <a href="http://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>, Jingwen Wang, <a href="https://zacharywaseda.github.io/">Ruihui Zhao</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> and <a href="https://sites.google.com/site/yefengzheng/">Yefeng Zheng</a>.
 Annual Meeting of the Association for Computational Linguistics (ACL), 2021 <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
 
 
