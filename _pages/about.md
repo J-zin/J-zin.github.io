@@ -10,24 +10,18 @@ redirect_from:
 
 About me
 ======
-I recently graduated with a B.E. degree in the School of  Computer Science and Engineering, Sun Yat-sen University, working with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en). My research interests include generative models, energy-based models, and approximate inference.
+I am an incoming PhD student at Imperial College London, advised by [Yingzhen Li](http://yingzhenli.net/home/en/). Super excited about that :wink:. These days I am intersted in generative models, approximate inference, and explainable AI.
+
+I was extremely fortunate to have many wonderful mentors in my undergraduate years. I started machine laerning research with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) at Sun Yat-sen University. I worked with [Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/) as part of [Tencent Jarvis Lab](https://jarvislab.tencent.com/). I also had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
 
 Publications
 ------
 - Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
- <b>Zijing Ou</b>, Qinliang Su, Jianxin Yu, Bang Liu, Jingwen Wang, Jingwen Wang, Ruihui Zhao, Changyou Chen and Yefeng Zheng, <b>ACL 2021</b>. <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[pytorch]</a> <a href="https://github.com/J-zin/SNUH-mindspore">[mindspore]</a>  <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
-- Unsupervised Hashing with Contrastive Information Bottleneck <br>
- Zexuan Qiu, Qinliang Su, <b>Zijing Ou</b>, Jianxin Yu and Changyou Chen, <b>IJCAI 2021</b>. <a href="https://arxiv.org/pdf/2105.06138.pdf">[pdf]</a> <a href="https://github.com/qiuzx2/CIBHash">[code]</a> <a href="https://j-zin.github.io/files/ijcai_2021_slides.pdf">[slides]</a>
-- Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management <br>
- Zhengxu Hou, Bang Liu, Ruihui Zhao, <b>Zijing Ou</b>, Yafei Liu, Xi Chen and Yefeng Zheng, <b>NAACL 2021</b>. <a href="https://arxiv.org/pdf/2104.04748.pdf">[pdf]</a> <a href="https://github.com/sherlock1987/SeqReward">[code]</a>
-- Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network <br>
- Yuanzhen Xie, <b>Zijing Ou</b>, Liang Chen, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, <b>WSDM 2021</b>. <a href="https://dl.acm.org/doi/pdf/10.1145/3437963.3441745">[pdf]</a>
-- Embedding Dynamic Attributed Networks by Modeling the Evolution Processes <br>
- Zenan Xu, <b>Zijing Ou</b>, Qinliang Su, Jianxing Yu, Xiaojun Quan and ZhenKun Lin, <b>COLING 2020</b>. <a href="https://www.aclweb.org/anthology/2020.coling-main.600.pdf">[pdf]</a>
-- ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation <br>
- Jing Song, Hong Shen, <b>Zijing Ou</b>, Junyi Zhang, Teng Xiao and Shangsong Liang, <b>IJCAI 2019</b>. <a href="https://www.ijcai.org/Proceedings/2019/0799.pdf">[pdf]</a>
+ <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="https://scholar.google.com/citations?user=0SIMxCgAAAAJ&hl=zh-CN">Jianxin Yu</a>, <a href="http://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>, Jingwen Wang, <a href="https://zacharywaseda.github.io/">Ruihui Zhao</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> and <a href="https://sites.google.com/site/yefengzheng/">Yefeng Zheng</a> <br>
+Annual Meeting of the Association for Computational Linguistics (ACL), 2021 <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
 
-Research Exeerience
+
+<!-- Research Exeerience
 ------
 
 **Tencent AI Lab** (2021.07 - present)
@@ -40,7 +34,7 @@ Research Exeerience
 
 **Sun Yat-sen University** (2018.09 - 2021.06)
 - Research Assistant, School of Computer Science and Engineering
-- Work with: [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en)
+- Work with: [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) -->
 
 Services
 ------
