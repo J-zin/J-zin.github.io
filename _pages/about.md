@@ -19,10 +19,14 @@ Publications
 
 check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
+- Learning Neural Set Functions Under the Optimal Subset Oracle  <br>
+<b>Zijing Ou</b>, <a href="https://scholar.google.com.hk/citations?user=6gIs5YMAAAAJ&hl=en">Tingyang Xu</a>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://peilinzhao.github.io/">Peilin Zhao</a>, and <a href="https://yataobian.com/">Yatao Bian</a>.
+Neural Processing Information Systems (NeurIPS), 2022.
+<a href="[https://j-zin.github.io/files/acl_2021.pdf](https://arxiv.org/abs/2203.01693)">[paper]</a> <a href="https://subsetselection.github.io/EquiVSet/">[page]</a> <a href="https://github.com/SubsetSelection/EquiVSet/tree/main">[code]</a>
+
 - Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
  <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="https://scholar.google.com/citations?user=0SIMxCgAAAAJ&hl=zh-CN">Jianxin Yu</a>, <a href="http://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>, Jingwen Wang, <a href="https://zacharywaseda.github.io/">Ruihui Zhao</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> and <a href="https://sites.google.com/site/yefengzheng/">Yefeng Zheng</a>.
-Annual Meeting of the Association for Computational Linguistics (ACL), 2021 <a href="https://j-zin.github.io/files/acl_2021.pdf">[pdf]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
-
+Annual Meeting of the Association for Computational Linguistics (ACL), 2021. <a href="https://j-zin.github.io/files/acl_2021.pdf">[paper]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
 
 <!-- Research Exeerience
 ------
