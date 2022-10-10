@@ -12,7 +12,7 @@ About me
 ======
 I am a first-year PhD student at Imperial College London, advised by [Yingzhen Li](http://yingzhenli.net/home/en/). These days I am intersted in generative models, approximate inference, and explainable AI.
 
-I was extremely fortunate to have many wonderful mentors in my undergraduate years. I started machine learing research with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) at Sun Yat-sen University. I worked with [Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/) as part of [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html). I also had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
+I was extremely fortunate to have many wonderful mentors in my undergraduate years. I started machine learning research with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) at Sun Yat-sen University. I worked with [Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/) as part of [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html). I also had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
 
 Publications
 ------
