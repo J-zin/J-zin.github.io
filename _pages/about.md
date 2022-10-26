@@ -21,7 +21,7 @@ check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAA
 
 - Learning Neural Set Functions Under the Optimal Subset Oracle  <br>
 <b>Zijing Ou</b>, <a href="https://scholar.google.com.hk/citations?user=6gIs5YMAAAAJ&hl=en">Tingyang Xu</a>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://peilinzhao.github.io/">Peilin Zhao</a>, and <a href="https://yataobian.com/">Yatao Bian</a>.
-Neural Processing Information Systems (NeurIPS), 2022. <a><font color="#ac0000">Oral.</font></a>
+Neural Processing Information Systems (NeurIPS), 2022. <font color="#ac0000">Oral.</font>
 <a href="https://arxiv.org/abs/2203.01693">[paper]</a> <a href="https://subsetselection.github.io/EquiVSet/">[page]</a> <a href="https://github.com/SubsetSelection/EquiVSet/tree/main">[code]</a>
 
 - Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval <br>
