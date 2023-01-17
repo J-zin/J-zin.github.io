@@ -20,7 +20,7 @@ Publications
 check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
 - Learning Neural Set Functions Under the Optimal Subset Oracle  <br>
-<font color="#3355FF">Oral (Accept rate~1.7%).</font> <b>Zijing Ou</b>, <a href="https://scholar.google.com.hk/citations?user=6gIs5YMAAAAJ&hl=en">Tingyang Xu</a>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://peilinzhao.github.io/">Peilin Zhao</a>, and <a href="https://yataobian.com/">Yatao Bian</a>.
+<font color="#3355FF">Oral (Accept rate~1.7%)</font> <br> <b>Zijing Ou</b>, <a href="https://scholar.google.com.hk/citations?user=6gIs5YMAAAAJ&hl=en">Tingyang Xu</a>, <a href="https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en">Qinliang Su</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://peilinzhao.github.io/">Peilin Zhao</a>, and <a href="https://yataobian.com/">Yatao Bian</a>.
 Neural Processing Information Systems (NeurIPS), 2022.
 <a href="https://arxiv.org/abs/2203.01693">[paper]</a> <a href="https://subsetselection.github.io/EquiVSet/">[page]</a> <a href="https://github.com/SubsetSelection/EquiVSet/tree/main">[code]</a> <a href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/54333.png?t=1669298430.3968306">[poster]</a> 
 
