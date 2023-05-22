@@ -12,6 +12,7 @@ redirect_from:
 
 ## Talks
 
+* <a href="https://j-zin.github.io/files/discrete_ebms.pdf">The Modern Arts of Discrete Energy-based Models Training and Inference</a>. Reading Group Talk @ <a href="https://imperialcollegelondon.github.io/csml-reading-group/">CSML</a>, March 2023.
 * <a href="https://j-zin.github.io/files/shapley_slides.pdf">Model Explanation with Shapley Values</a>. Reading Group Talk @ Tencent AI Lab, Dec 2021. <a href="https://www.bilibili.com/video/BV1uF411b7b6?spm_id_from=333.999.0.0">[video in Chinese]</a>
 <!-- * <a href="https://j-zin.github.io/files/shape_constraint_NN_slides.pdf">Shape Constraints on Neural Networks</a>. Reading Group Talk @ Tencent AI Lab, Sept 2021. <a href="https://github.com/J-zin/shape-constraints-on-neural-network">[code]</a> -->
 * <a href="https://j-zin.github.io/files/ebm_slides.pdf">EBM Learning and Inference: A Retrospection and Beyond</a>. Reading Group Talk @ Tencent AI Lab, July 2021. <a href="https://j-zin.github.io/files/boltzmann_codes.zip">[code]</a> <a href="https://j-zin.github.io/files/gradient_guided_ratio_matching.pdf">[notes]</a>
