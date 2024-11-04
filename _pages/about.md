@@ -15,7 +15,7 @@ I am a PhD student in the Department of Computing  at Imperial College London, l
 Publications
 ------
 
-<font color="#3355FF"> \* denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ) </font> 
+<font color="#d3d3d3"> \* denotes equal contribution; check the full list</font> [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
 - Improving Probabilistic Diffusion Models With Optimal Covariance Matching <br>
 <b>Zijing Ou</b>\*, [Mingtian Zhang](https://mingtian.ai/)\*, [Andi Zhang](https://andi.ac/), [Tim Xiao](https://timx.me/), [Yingzhen Li](http://yingzhenli.net/home/en/), and [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php).
