@@ -15,15 +15,15 @@ I am a PhD student in the Department of Computing  at Imperial College London, l
 Publications
 ------
 
-<font color="#3355FF"> * denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ) </font> 
+<font color="#3355FF"> \* denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ) </font> 
 
 - Improving Probabilistic Diffusion Models With Optimal Covariance Matching <br>
-<b>Zijing Ou</b>*, [Mingtian Zhang](https://mingtian.ai/)*, [Andi Zhang](https://andi.ac/), [Tim Xiao](https://timx.me/), [Yingzhen Li](http://yingzhenli.net/home/en/), and [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php).
+<b>Zijing Ou</b>\*, [Mingtian Zhang](https://mingtian.ai/)\*, [Andi Zhang](https://andi.ac/), [Tim Xiao](https://timx.me/), [Yingzhen Li](http://yingzhenli.net/home/en/), and [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php).
 arXiv:2406.10808.
 <a href="https://arxiv.org/abs/2406.10808">[paper]</a> <a href="https://github.com/J-zin/OCM_DPM">[code]</a>
 
 - Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces <br>
-<a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>*, <b>Zijing Ou</b>*, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
+<a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>\*, <b>Zijing Ou</b>\*, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
 Neural Processing Information Systems (NeurIPS), 2024.
 <a href="https://neurips.cc/virtual/2024/poster/93171">[paper]</a> <a href="https://github.com/J-zin/discrete-energy-discrepancy">[code]</a>
 
