@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at [Apple MLR](https://machinelearning.apple.com/), [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), and [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html).
+I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at [Apple MLR](https://machinelearning.apple.com/), [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), and [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html).
 
 Publications
 ------
