@@ -10,14 +10,17 @@ redirect_from:
 
 About me
 ======
-I am a PhD student at Imperial College London, advised by [Yingzhen Li](http://yingzhenli.net/home/en/). These days I am interested in generative models, approximate inference, and explainable AI.
-
-I was extremely fortunate to have many wonderful mentors in my undergraduate years. I started machine learning research with [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) at Sun Yat-sen University. I worked with [Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Bang Liu](http://www-labs.iro.umontreal.ca/~liubang/) as part of [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html). I also had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
+I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at [Apple MLR](https://machinelearning.apple.com/), [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), and [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html).
 
 Publications
 ------
 
-check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
+<font color="#3355FF"> * denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ) </font> 
+
+- Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces <br>
+<a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>, <b>Zijing Ou</b>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
+Neural Processing Information Systems (NeurIPS), 2024.
+<a href="https://neurips.cc/virtual/2024/poster/93171">[paper]</a> <a href="https://github.com/J-zin/discrete-energy-discrepancy">[code]</a>
 
 - Energy Discrepancies: A Score-Independent Loss for Energy-Based Models <br>
 <a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>, <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=Uryp_N8AAAAJ&hl=en">Jen Ning Lim</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://scholar.google.co.uk/citations?user=WoqSEpYAAAAJ&hl=en">Sebastian Vollmer</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
@@ -53,4 +56,4 @@ Annual Meeting of the Association for Computational Linguistics (ACL), 2021. <a 
 Services
 ------
 
-- Conference Reviewing: ICLR (2024), ICML (2022-2024), NeurIPS (2022-2023), AISTAT (2023-2024), IJCAI (2022-2024), ACL (2022), NAACL (2022)
+- Conference Reviewing: ICLR (2024-2025), ICML (2022-2024), NeurIPS (2022-2024), AISTAT (2023-2025), IJCAI (2022-2024), ACL (2022), NAACL (2022)
