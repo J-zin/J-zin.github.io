@@ -17,6 +17,11 @@ Publications
 
 \* denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
+- Discrete Neural Flow Samplers with Locally Equivariant Transformer <br>
+<b>Zijing Ou</b>\*, [Ruixiang Zhang](https://scholar.google.ca/citations?user=VQYdApgAAAAJ)\*, and [Yingzhen Li](http://yingzhenli.net/home/en/).
+Neural Processing Information Systems (NeurIPS), 2025.
+<a href="https://arxiv.org/abs/2505.17741">[paper]</a>
+
 - Improving Probabilistic Diffusion Models With Optimal Diagonal Covariance Matching <br> <font color="#3355FF">Oral (Accept rate~1.8%)</font> <br>
 <b>Zijing Ou</b>\*, [Mingtian Zhang](https://mingtian.ai/)\*, [Andi Zhang](https://andi.ac/), [Tim Xiao](https://timx.me/), [Yingzhen Li](http://yingzhenli.net/home/en/), and [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php).
 International Conference on Learning Representations (ICLR), 2025.
@@ -25,7 +30,7 @@ International Conference on Learning Representations (ICLR), 2025.
 - Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces <br>
 <a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>\*, <b>Zijing Ou</b>\*, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
 Neural Processing Information Systems (NeurIPS), 2024.
-<a href="https://neurips.cc/virtual/2024/poster/93171">[paper]</a> <a href="https://github.com/J-zin/discrete-energy-discrepancy">[code]</a>
+<a href="https://arxiv.org/abs/2412.01019">[paper]</a> <a href="https://github.com/J-zin/discrete-energy-discrepancy">[code]</a>
 
 - Energy Discrepancies: A Score-Independent Loss for Energy-Based Models <br>
 <a href="https://tobias-schroeder.github.io/">Tobias Schröder</a>, <b>Zijing Ou</b>, <a href="https://scholar.google.com/citations?user=Uryp_N8AAAAJ&hl=en">Jen Ning Lim</a>, <a href="http://yingzhenli.net/home/en/">Yingzhen Li</a>, <a href="https://scholar.google.co.uk/citations?user=WoqSEpYAAAAJ&hl=en">Sebastian Vollmer</a>, and <a href="https://www.imperial.ac.uk/people/a.duncan">Andrew Duncan</a>.
@@ -61,4 +66,4 @@ Annual Meeting of the Association for Computational Linguistics (ACL), 2021. <a 
 Services
 ------
 
-- Conference Reviewing: ICLR (2024-2025), ICML (2022-2024), NeurIPS (2022-2024), AISTAT (2023-2025), IJCAI (2022-2024), ACL (2022), NAACL (2022)
+- Conference Reviewing: ICLR (2024-2026), ICML (2022-2025), NeurIPS (2022-2025), AISTAT (2023-2026), IJCAI (2022-2024), ACL (2022), NAACL (2022)
