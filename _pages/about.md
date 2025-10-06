@@ -18,7 +18,7 @@ Publications
 \* denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
 - Discrete Neural Flow Samplers with Locally Equivariant Transformer <br>
-<b>Zijing Ou</b>\*, [Ruixiang Zhang](https://scholar.google.ca/citations?user=VQYdApgAAAAJ)\*, and [Yingzhen Li](http://yingzhenli.net/home/en/). 
+<b>Zijing Ou</b>, [Ruixiang Zhang](https://scholar.google.ca/citations?user=VQYdApgAAAAJ), and [Yingzhen Li](http://yingzhenli.net/home/en/). 
 Neural Processing Information Systems (NeurIPS), 2025.
 <a href="https://arxiv.org/abs/2505.17741">[paper]</a>
 
