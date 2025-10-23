@@ -20,7 +20,7 @@ Publications
 - Discrete Neural Flow Samplers with Locally Equivariant Transformer <br>
 <b>Zijing Ou</b>, [Ruixiang Zhang](https://scholar.google.ca/citations?user=VQYdApgAAAAJ), and [Yingzhen Li](http://yingzhenli.net/home/en/). 
 Neural Processing Information Systems (NeurIPS), 2025.
-<a href="https://arxiv.org/abs/2505.17741">[paper]</a>
+<a href="https://arxiv.org/abs/2505.17741">[paper]</a> <a href="https://github.com/J-zin/DNFS">[code]</a>
 
 - Improving Probabilistic Diffusion Models With Optimal Diagonal Covariance Matching <br> <font color="#3355FF">Oral (Accept rate~1.8%)</font> <br>
 <b>Zijing Ou</b>\*, [Mingtian Zhang](https://mingtian.ai/)\*, [Andi Zhang](https://andi.ac/), [Tim Xiao](https://timx.me/), [Yingzhen Li](http://yingzhenli.net/home/en/), and [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php).
