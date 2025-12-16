@@ -12,7 +12,7 @@ About me
 ======
 I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at:
 
-- [Apple MLR](https://machinelearning.apple.com/) (06/2024 - 09/2024): video diffusion models
+- [Apple MLR](https://machinelearning.apple.com/) (06/2024 - 09/2024): large-scale video diffusion models training
 - [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html) (09/2023 - 12/2023): flow matching for petrol station floorplan generation
 - [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index) (07/2021 - 09/2022): discrete energy-based modelling for set function learning ([NeurIPS 2022 Oral](https://arxiv.org/abs/2203.01693))
 - [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) (05/2020 - 06/2021): representation learning with variational inference ([ACL 2021 Oral](https://arxiv.org/abs/2105.13066))
