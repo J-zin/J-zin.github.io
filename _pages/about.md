@@ -12,6 +12,14 @@ About me
 ======
 I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at [Apple MLR](https://machinelearning.apple.com/), [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), and [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html).
 
+My PhD research is deep generative modelling, and I am recently focusing on diffusion post-training and test-time scaling, as well as few-step generation and distillation:
+
+- Test-time scaling and post-training for diffusion models [[paper](https://arxiv.org/abs/2505.22524)]
+- Few-step generation with optimal covariance matching [[paper](https://arxiv.org/abs/2406.10808)]; one-step distillation [[paper1](https://arxiv.org/abs/2502.08005), [paper2](https://arxiv.org/abs/2508.20646)]
+- Neural flow sampler for unnormalized distributions [[paper1](https://arxiv.org/abs/2505.17741), [paper2](https://arxiv.org/abs/2502.07337)]
+- Training energy-based models without MCMC [[paper1](https://arxiv.org/abs/2307.06431), [paper2](https://arxiv.org/abs/2412.01019)]
+
+
 Publications
 ------
 
