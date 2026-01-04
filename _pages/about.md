@@ -10,12 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at:
-
-- [Apple MLR](https://machinelearning.apple.com/) (06/2024 - 09/2024): large-scale video diffusion models training
-- [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html) (09/2023 - 12/2023): flow matching for petrol station floorplan generation
-- [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index) (07/2021 - 09/2022): discrete energy-based modelling for set function learning ([NeurIPS 2022 Oral](https://arxiv.org/abs/2203.01693))
-- [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) (05/2020 - 06/2021): representation learning with variational inference ([ACL 2021 Oral](https://arxiv.org/abs/2105.13066))
+I am a PhD student in the Department of Computing  at Imperial College London, learning to train energy-based models under the supervision of [Yingzhen Li](http://yingzhenli.net/home/en/). I completed my undergraduate studies in the School of Computer Science and Engineering at Sun Yat-sen University and previously worked as a research intern at [Apple MLR](https://machinelearning.apple.com/), [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index), and [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html).
 
 My PhD research is deep generative modelling, and currently focusing on diffusion post-training and test-time scaling, as well as few-step generation and distillation:
 
@@ -61,9 +56,16 @@ Neural Processing Information Systems (NeurIPS), 2022.
 Annual Meeting of the Association for Computational Linguistics (ACL), 2021. <a href="https://j-zin.github.io/files/acl_2021.pdf">[paper]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
 -->
 
-<!-- Research Exeerience
+Research Experience
 ------
 
+- [Apple MLR](https://machinelearning.apple.com/) (06/2024 - 09/2024): large-scale video diffusion models training
+- [Shell AI](https://www.shell.com/what-we-do/digitalisation/artificial-intelligence.html) (09/2023 - 12/2023): flow matching for petrol station floorplan generation
+- [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index) (07/2021 - 09/2022): discrete energy-based modelling for set function learning ([NeurIPS 2022 Oral](https://arxiv.org/abs/2203.01693))
+- [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) (05/2020 - 06/2021): representation learning with variational inference ([ACL 2021 Oral](https://arxiv.org/abs/2105.13066))
+
+<!-- Research Exeerience
+------
 **Tencent AI Lab** (2021.07 - present)
 - Research Intern, Machine Learning Group, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
 - Work with: [Yatao Bian](https://yataobian.com/), Tingyang Xu
