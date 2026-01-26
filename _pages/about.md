@@ -26,7 +26,7 @@ Publications
 \* denotes equal contribution; check the full list [here](https://scholar.google.com/citations?user=zZg3Cm0AAAAJ)
 
 - Inference-Time Scaling of Discrete Diffusion Models via Importance Weighting and Optimal Proposal Design <br>
-<b>Zijing Ou</b>, [Chinmay Pani](https://scholar.google.com/citations?user=oqy71RQAAAAJ&hl=en), and [Yingzhen Li](http://yingzhenli.net/home/en/). 
+<b>Zijing Ou</b>\*, [Chinmay Pani](https://scholar.google.com/citations?user=oqy71RQAAAAJ&hl=en)\*, and [Yingzhen Li](http://yingzhenli.net/home/en/). 
 International Conference on Learning Representations (ICLR), 2026.
 <a href="https://arxiv.org/abs/2505.22524">[paper]</a>
 
