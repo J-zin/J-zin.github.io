@@ -28,7 +28,7 @@ Publications
 - Inference-Time Scaling of Discrete Diffusion Models via Importance Weighting and Optimal Proposal Design <br>
 <b>Zijing Ou</b>\*, [Chinmay Pani](https://scholar.google.com/citations?user=oqy71RQAAAAJ&hl=en)\*, and [Yingzhen Li](http://yingzhenli.net/home/en/). <br>
 International Conference on Learning Representations (ICLR), 2026.
-<a href="https://arxiv.org/abs/2505.22524">[paper]</a>
+<a href="https://arxiv.org/abs/2505.22524">[paper]</a> <a href="https://github.com/J-zin/smc_ddm_iclr">[code]</a>
 
 - Discrete Neural Flow Samplers with Locally Equivariant Transformer <br>
 <b>Zijing Ou</b>, [Ruixiang Zhang](https://scholar.google.ca/citations?user=VQYdApgAAAAJ), and [Yingzhen Li](http://yingzhenli.net/home/en/). 
